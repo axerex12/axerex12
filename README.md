@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axerex12" alt="axerex12" /></a> </p>
 
-- 🔭 I’m currently working on [School shit](https://github.com/Kreetrix/Ohjelmistotuotanto-1)
+- 🔭 I’m currently working on [School projects]
 
-- 🌱 I’m currently learning **To spell my name**
-
-- 🤝 I’m looking for help with **Dog walking**
-
-- 💬 Ask me about **BenchPress, WhiteMonster and spinosaurus**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **axel.aaldijk12@gmail.com**
 
